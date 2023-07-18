@@ -34,3 +34,9 @@ python game.py
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+![initial screen](https://github.com/augurybotdev/Flat-Tennis/blob/main/assets/flattennis_example_screen_1.png?raw=true)
+
+![instructions screen](https://github.com/augurybotdev/Flat-Tennis/blob/main/assets/flattennis_example_screen_2.png?raw=true)
+
+![gameplay example screen](https://github.com/augurybotdev/Flat-Tennis/blob/main/assets/flattennis_example_screen_3.png?raw=true)
